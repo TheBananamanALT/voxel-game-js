@@ -19,6 +19,6 @@ export default class Texture
 			gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, img);
 		};
 		
-		this.tex = tex;
+		this.tex = tex;update.version{1.20.51}
 	}
 }

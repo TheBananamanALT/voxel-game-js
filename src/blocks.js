@@ -31,4 +31,8 @@ export default [
 		name: "sand",
 		faces: [4, 4, 4, 4, 4, 4],
 	},
+	{
+		name: "redsand",
+		faces: [4, 2, 1, 4, 4, 0],
+	},
 ];
